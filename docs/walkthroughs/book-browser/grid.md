@@ -7,7 +7,7 @@ Booklore offers two main ways to explore your book collection:
 
 In this guide, we’ll focus on the **Grid View**, a visually engaging layout where book covers take center stage. As the name suggests, books are arranged in a grid format showing the cover, title, and a menu for quick actions (which we’ll cover later).
 
-![Grid View Example](/img/grid/grid-1.jpg)
+![Grid View Example](/static/img/grid/grid-1.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ A slider allows you to control the size of each book card. Whether you prefer co
 
 > Note: The chosen size is saved automatically ~3 seconds after your last adjustment. This ensures that your preferred layout is preserved the next time you open Booklore.
 
-![Adjust Grid Size](/img/grid/grid-2.jpg)
+![Adjust Grid Size](/static/img/grid/grid-2.jpg)
 
 ---
 
@@ -34,8 +34,8 @@ If you have a lot of books in a series, the "Collapse Series" option helps keep 
 - **Unchecked**: All books in a series are displayed individually.
 - **Checked**: Only the first book in each series is shown, with an overlay indicating how many books are collapsed behind it.
 
-![Expanded Series](/img/grid/grid-3.jpg)
-![Collapsed Series](/img/grid/grid-4.jpg)
+![Expanded Series](/static/img/grid/grid-3.jpg)
+![Collapsed Series](/static/img/grid/grid-4.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ You can sort sidebar items by:
 
 > Why it’s useful: This flexibility allows you to prioritize frequently used filters (like prolific authors or popular categories), or quickly browse alphabetically if you're not sure of book counts.
 
-![Sidebar Filters](/img/grid/grid-5.jpg)
+![Sidebar Filters](/static/img/grid/grid-5.jpg)
 ![Sidebar Sort Options](/img/grid/grid-6.jpg)
 
 ---
@@ -67,7 +67,7 @@ Click once to sort in ascending order; click again to reverse it.
 
 > Why it’s useful: Sorting allows you to quickly reframe your library based on context. Want to revisit your newest downloads? Use “Date Added.” Looking for a specific book? “Title” has you covered.
 
-![Sort Options](/img/grid/grid-7.jpg)
+![Sort Options](/static/img/grid/grid-7.jpg)
 
 ---
 
@@ -80,6 +80,6 @@ The live search bar helps you quickly find specific books without leaving the gr
 
 > Why it’s useful: No need to scroll endlessly, just type part of a title or author’s name and instantly narrow down the grid. Especially helpful in large libraries.
 
-![Search in Grid](/img/grid/grid-8.jpg)
+![Search in Grid](/static/img/grid/grid-8.jpg)
 
 ---
