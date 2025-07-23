@@ -10,8 +10,8 @@ You can open the library editing menu in two ways:
 1) From the left sidebar by clicking the ellipsis icon next to the library name.
 2) From the library header by clicking the ellipsis icon next to the library name.
 
-![Edit Library 1](/img/edit-library/edit-library-1.jpg)
-![Edit Library 2](/img/edit-library/edit-library-2.jpg)
+![Edit Library 1](/static/img/edit-library/edit-library-1.jpg)
+![Edit Library 2](/static/img/edit-library/edit-library-2.jpg)
 
 ### Step 2: Library Editing Options
 
@@ -23,4 +23,4 @@ You can open the library editing menu in two ways:
 
 4) **Edit Library**: Click this option to open a dialog where you can change the library name, choose a new icon, enable or disable monitoring, or remove a folder from the library.
 
-![Edit Library 3](/img/edit-library/edit-library-3.jpg)
+![Edit Library 3](/static/img/edit-library/edit-library-3.jpg)
